@@ -1,6 +1,5 @@
 Set Up Your HP Printer: 123.hp.com/setup
-  
-=========================
+=======================================
 
 .. image:: https://123-hpcomprintersetup.github.io/hpsetup.png
      :width: 1000px    
