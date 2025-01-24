@@ -4,7 +4,7 @@ Set Up Your HP Printer: 123.hp.com/setup
 .. image:: hpsetup.png
      :width: 1000px    
      :align: center 
-     :height: 500px
+     :height: 600px
      :alt: Set Up Your HP Printer: 123.hp.com/setup
      :target: https://ww0.us/?aHR0cHM6Ly8xMjMtaHBjb21wcmludGVyc2V0dXAuZ2l0aHViLmlv
 
