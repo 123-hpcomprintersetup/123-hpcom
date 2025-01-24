@@ -31,4 +31,4 @@ How to Set Up Your HP Printer: Quick Guide
 7. Once the software is installed, go to your computer’s printer settings and select your HP printer as the default printer.
 8. Print a test page to ensure the printer is working correctly and is connected properly to your computer or network.
 
-Now your HP printer is all set up and ready to use!
+Now your **HP printer** is all set up and ready to use!
